@@ -6,10 +6,12 @@ Alarm
 Alter Self
 Animal Friendship
 Animal Messenger
+Animal Shapes
 Animate Dead
 Animate Objects
 Antilife Shell
 Antimagic Field
+Antipathy/Sympathy
 Arcane Eye
 Arcane Gate
 Arcane Hacking
@@ -58,6 +60,7 @@ Chromatic Orb
 Circle of Death
 Circle of Power
 Clairvoyance
+Clone
 Cloud of Daggers
 Cloudkill
 Color Spray
@@ -109,6 +112,7 @@ Dawn
 Daylight
 Death Ward
 Delayed Blast Fireball
+Demiplane
 Destructive Wave
 Detect Evil and Good
 Detect Magic
@@ -149,12 +153,14 @@ Erupting Earth
 Etherealness
 Evard's Black Tentacles
 Expeditious Retreat
+Eyebite
 Fabricate
 Faerie Fire
 False Life
 Far Step
 Fear
 Feather Fall
+Feeblemind
 Feign Death
 Find Familiar
 Find Greater Steed
@@ -171,9 +177,11 @@ Flame Arrows
 Flame Blade
 Flame Strike
 Flaming Sphere
+Flesh to Stone
 Fly
 Fog Cloud
 Forbiddance
+Forcecage
 Foresight
 Freedom of Movement
 Friends
@@ -183,6 +191,7 @@ Gate
 Geas
 Gentle Repose
 Giant Insect
+Glibness
 Globe of Invulnerability
 Glyph of Warding
 Goodberry
@@ -193,6 +202,7 @@ Greater Restoration
 Green-Flame Blade
 Guardian of Faith
 Guardian of Nature
+Guards and Wards
 Guidance
 Guiding Bolt
 Guiding Hand
@@ -226,6 +236,7 @@ Identify
 Illusory Script
 Immolation
 Imprisonment
+Incendiary Cloud
 Infallible Relay
 Infernal Calling
 Infestation
@@ -253,6 +264,7 @@ Maelstrom
 Mage Armor
 Mage Hand
 Magic Circle
+Magic Jar
 Magic Missile
 Magic Mouth
 Magic Stone
@@ -271,8 +283,10 @@ Mending
 Mental Prison
 Message
 Meteor Swarm
+Mind Blank
 Mind Spike
 Minor Illusion
+Mirage Arcane
 Mirror Image
 Mislead
 Misty Step
@@ -280,12 +294,15 @@ Modify Memory
 Mold Earth
 Moonbeam
 Mordenkainen's Faithful Hound
+Mordenkainen's Magnificent Mansion
 Mordenkainen's Private Sanctum
 Mordenkainen's Sword
+Move Earth
 Negative Energy Flood
 Nondetection
 Nystul's Magic Aura
 On/Off
+Otiluke's Freezing Sphere
 Otiluke's Resilient Sphere
 Otto's Irresistible Dance
 Pass without Trace
@@ -299,12 +316,17 @@ Plane Shift
 Plant Growth
 Poison Spray
 Polymorph
+Power Word Heal
 Power Word Kill
 Power Word Stun
 Prayer of Healing
 Prestidigitation
 Primal Savagery
+Primordial Ward
+Prismatic Spray
 Produce Flame
+Programmed Illusion
+Project Image
 Protection from Ballistics
 Protection from Energy
 Protection from Evil and Good
@@ -324,6 +346,7 @@ Remote Access
 Remove Curse
 Resistance
 Resurrection
+Reverse Gravity
 Revivify
 Rope Trick
 Sacred Flame
@@ -372,6 +395,7 @@ Sudden Awakening
 Suggestion
 Summon Greater Demon
 Summon Lesser Demons
+Sunbeam
 Sunburst
 Swift Quiver
 Sword Burst
@@ -396,6 +420,7 @@ Tiny Servant
 Toll the Dead
 Tongues
 Tree Stride
+True Polymorph
 True Resurrection
 True Seeing
 True Strike
@@ -407,9 +432,11 @@ Virtue
 Vitriolic Sphere
 Wall of Fire
 Wall of Force
+Wall of Ice
 Wall of Light
 Wall of Sand
 Wall of Stone
+Wall of Thorns
 Wall of Water
 Warding Bond
 Warding Wind
@@ -417,8 +444,11 @@ Water Breathing
 Water Walk
 Watery Sphere
 Web
+Weird
 Wild Cunning
+Wind Walk
 Wind Wall
+Wish
 Witch Bolt
 Word of Radiance
 Word of Recall
